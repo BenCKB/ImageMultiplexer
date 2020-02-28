@@ -1,6 +1,6 @@
 # Image Multiplexer
 #### Mix and match channels of input images into new a image
-<img align="center" src="https://raw.githubusercontent.com/BenCKB/ImageMultiplexer/images/Example1.png" alt="Image1"/>
+<img align="center" src="./images/Example1.png" alt="Image1"/>
 
 ***
 This project started out of a necessity to reduce the amount of textures being loaded into my rendering engine, by using those channels that were not used by textures, for example combining the roughness and metalness texture into one. 
