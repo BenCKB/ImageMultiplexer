@@ -1,5 +1,5 @@
 # Image Multiplexer
-#### Mix and match channels of input images into new a image
+#### Mix and match channels of input images into a new image
 <img align="center" src="./images/Example1.png" alt="Image1"/>
 
 ***
